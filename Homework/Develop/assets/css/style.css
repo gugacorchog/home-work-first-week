@@ -1,13 +1,16 @@
+/* Universal selector */
 * {
     box-sizing: border-box;
-    padding: 0;
+   padding: 0;
     margin: 0;
 }
 
+/* Background color #d9dcd6*/
 body {
     background-color: #d9dcd6;
 }
 
+/* Text Horiseon top box of the page */
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -15,15 +18,17 @@ body {
     color: #ffffff;
 }
 
+/* Three Links on top of the pag (inline-block, fonte-size) */
 .header h1 {
     display: inline-block;
     font-size: 48px;
 }
-
+/* Color config or text SEO on left top page */
 .header h1 .seo {
     color: #d9dcd6;
 }
 
+/* Element conf line 13 HTML header div */
 .header div {
     padding-top: 15px;
     margin-right: 20px;
@@ -32,6 +37,7 @@ body {
     font-size: 20px;
 }
 
+/*  */
 .header div ul {
     list-style-type: none;
 }
@@ -195,6 +201,6 @@ p {
     text-align: center;
 }
 
-.footer h2 {
+.footer h4 {
     font-size: 20px;
 }
