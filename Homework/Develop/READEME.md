@@ -1,0 +1,20 @@
+# 01 HTML, CSS, and Git: Code Refactor
+
+# html and CSS:
+
+* Properly organized following semantic structure.
+
+# Deployment:
+
+* No errors onde tha page.
+* submitted to GitHub (folder Home-Work-First-Week).
+* Deplyed to a live ULR.
+
+[ Page on GitHub] 
+ https://gugacorchog.github.io/home-work-first-week/Homework/Develop/index.html
+
+![Screenshot]
+
+
+
+
