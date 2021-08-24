@@ -6,7 +6,7 @@
 
 # Deployment:
 
-* No errors onde tha page.
+* No errors on that page.
 * submitted to GitHub (folder Home-Work-First-Week).
 * Deplyed to a live ULR.
 
