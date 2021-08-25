@@ -9,7 +9,7 @@
 body {
     background-color: #d9dcd6;
 }
-
+  
 /* Text Horiseon top box of the page */
 .header {
     padding: 20px;
@@ -37,11 +37,11 @@ body {
     font-size: 20px;
 }
 
-/*  */
+
 .header div ul {
     list-style-type: none;
 }
-
+/* Inline-block display to Search links on right top of the pag (Search Engine Optimization, Online Reputation Management, Social Media Marketing */
 .header div ul li {
     display: inline-block;
     margin-left: 25px;
@@ -204,3 +204,4 @@ p {
 .footer h4 {
     font-size: 20px;
 }
+
