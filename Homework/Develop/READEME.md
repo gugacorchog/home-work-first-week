@@ -2,6 +2,9 @@
 
 # html and CSS:
 
+* Description - On that project i worked on improvement of the codebase for long-term sustainability, checking all functions also increasing the CSS by consolidating the selectors and properties, organising the semantic structure of the HTML elements including comments before each element or section of the page.
+ 
+
 * Properly organized following semantic structure.
 
 # Deployment:
