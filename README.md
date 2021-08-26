@@ -14,7 +14,7 @@
 * Deplyed to a live ULR.
 
 [ Page on GitHub] 
- https://gugacorchog.github.io/home-work-first-week/Homework/Develop/index.html
+ https://gugacorchog.github.io/home-work-first-week/index.html
 
 [Screenshot]
 
